@@ -3,8 +3,62 @@
   
     <url>
     
+      <loc>/talk/example/</loc>
+      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/talks/example/</loc>
       <lastmod>2030-06-01T13:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/r33/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/contributions/executive-functioning/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/contributions/rnt/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/brainmapd/</loc>
+      <lastmod>2019-04-16T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/contributions/psychometrics/</loc>
+      <lastmod>2019-04-16T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/contributions/treatment-research/</loc>
+      <lastmod>2019-04-15T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/r56/</loc>
+      <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/project/cog-inflex/</loc>
+      <lastmod>2019-04-12T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -75,24 +129,6 @@
   
     <url>
     
-      <loc>/project/brainmapd/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/r33/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>/project/bhp/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-06:00</lastmod>
     </url>
@@ -119,6 +155,12 @@
     
       <loc>/publication/2016-01-01_validation_of_the_/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>/publication/person-re-id/</loc>
+      <lastmod>2015-09-01T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -177,7 +219,20 @@
   
     <url>
     
+      <loc>/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>/author/admin/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -259,7 +314,7 @@
     <url>
     
       <loc>/tags/bhp/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -328,6 +383,13 @@
     <url>
     
       <loc>/clinical/</loc>
+    </url>
+  
+    <url>
+    
+      <loc>/contributions/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
   
     <url>
@@ -417,14 +479,14 @@
     <url>
     
       <loc>/tags/executive-functioning/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/tags/external/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -444,6 +506,13 @@
   
     <url>
     
+      <loc>/authors/ga-cushen/</loc>
+      <lastmod>2015-09-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/authors/gerald-c.-davison/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -452,7 +521,7 @@
     <url>
     
       <loc>/tags/internal/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -647,6 +716,13 @@
   
     <url>
     
+      <loc>/authors/ms-nixon/</loc>
+      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/authors/marie-forgeard/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -662,7 +738,7 @@
     <url>
     
       <loc>/tags/mclean-hospital/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-12T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -710,14 +786,21 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/psychometrics/</loc>
+      <lastmod>2019-04-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -751,8 +834,21 @@
     <url>
     
       <loc>/tags/r33/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/r56/</loc>
+      <lastmod>2019-04-14T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2030-06-01T13:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -763,8 +859,8 @@
   
     <url>
     
-      <loc>/tags/reward-sensitivity/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <loc>/tags/repetitive-negative-thinking/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -842,13 +938,6 @@
   
     <url>
     
-      <loc>/tags/threat-sensitivity/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/authors/throstur-bjorgvinsson/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -856,15 +945,22 @@
   
     <url>
     
+      <loc>/tags/treatment-research/</loc>
+      <lastmod>2019-04-15T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>/tags/ucla/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>/tags/ut-austin/</loc>
-      <lastmod>2016-04-27T00:00:00-05:00</lastmod>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   

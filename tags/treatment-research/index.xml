@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Treatment Research on Kean J. Hsu, Ph.D.</title>
+    <link>/tags/treatment-research/</link>
+    <description>Recent content in Treatment Research on Kean J. Hsu, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/treatment-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Treatment Research</title>
+      <link>/contributions/treatment-research/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/treatment-research/</guid>
+      <description>While clinical science has yielded a number of psychotherapeutic interventions that benefit individuals with a broad range of psychopathology, not everyone benefits from these treatments and it is still unclear how these treatments work. Consequently, there is a significant need for research into the predictors and mediators of treatment response, particularly beyond traditional randomized clinical trial settings. We have examined factors involved in treatment response for a complex psychiatric sample presenting for treatment in a partial hospital setting, finding support for the relevance of therapeutic skill change, rumination, and treatment expectancy in prediction of therapeutic response.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Internal on Kean J. Hsu, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/internal/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,21 @@
     <item>
       <title>COmputerized Modification Program for Attention - REtraining the Mind Trial (COMPARE Mind Trial)</title>
       <link>/project/r33/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>/project/r33/</guid>
-      <description>Coming soon</description>
+      <description>Further details coming soon. 
+Project Abstract (from NIH RePORTER): The overall goal of this project is to continue development of an attention bias modification (ABM) intervention that targets and reduces negative attention bias among adults with elevated symptoms of depression. Our prior work indicates that attention bias for negative information is associated with the maintenance of depression and that neural circuitry within frontal-parietal brain networks supports biased attention for negative information, thus allowing us to develop specific and targeted interventions that directly alter the neurobiology of negative attention bias.</description>
+    </item>
+    
+    <item>
+      <title>Contributions of genome-wide variability to cognitive vulnerability to depression</title>
+      <link>/project/r56/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/r56/</guid>
+      <description>Further details coming soon. 
+Project Abstract (from NIH RePORTER): Depression is a leading cause of disability worldwide among adults. Cognitive models of depression, which have received strong empirical support, posit that individuals&amp;rsquo; characteristic ways of attending to, interpreting, and remembering stimuli in their environment may contribute to the development and maintenance of the disorder. To understand the etiology of these biases, many genetic association studies have been completed. However, findings so far (including those from our own work) have been somewhat limited.</description>
     </item>
     
   </channel>

@@ -6,27 +6,46 @@
     <description>Recent content in Executive Functioning on Kean J. Hsu, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/executive-functioning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Executive functioning</title>
+      <link>/contributions/executive-functioning/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/executive-functioning/</guid>
+      <description>Attentional control and cognitive control (i.e., executive functioning) regulate what information from the environment enters conscious processing and how well that information can be processed and utilized or discarded. When these processes go awry, particularly in the context of negatively-valenced information or stimuli, they may lead to negative mood states and factors associated with depression risk and depression severity. We were the first group to show that while monozygotic (MZ) twins discordant for depression show no differences in neuropsychological functioning, they exhibit attentional impairment relative to MZ twins with no family history of depression.</description>
+    </item>
+    
+    <item>
       <title>Brain, Motivation and Personality Development Study (BrainMAPD)</title>
       <link>/project/brainmapd/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0500</pubDate>
       
       <guid>/project/brainmapd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transdiagnostic Cognitive Inflexibility</title>
-      <link>/project/bhp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Contributions of genome-wide variability to cognitive vulnerability to depression</title>
+      <link>/project/r56/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
       
-      <guid>/project/bhp/</guid>
-      <description>Details coming soon.</description>
+      <guid>/project/r56/</guid>
+      <description>Further details coming soon. 
+Project Abstract (from NIH RePORTER): Depression is a leading cause of disability worldwide among adults. Cognitive models of depression, which have received strong empirical support, posit that individuals&amp;rsquo; characteristic ways of attending to, interpreting, and remembering stimuli in their environment may contribute to the development and maintenance of the disorder. To understand the etiology of these biases, many genetic association studies have been completed. However, findings so far (including those from our own work) have been somewhat limited.</description>
+    </item>
+    
+    <item>
+      <title>Transdiagnostic cognitive inflexibility</title>
+      <link>/project/cog-inflex/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/cog-inflex/</guid>
+      <description>Further details coming soon.</description>
     </item>
     
   </channel>

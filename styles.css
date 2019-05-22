@@ -1778,14 +1778,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #00356B;
+  color: #00356b;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #00356B;
+  color: #00356b;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1822,7 +1822,7 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #00356B;
+  color: #00356b;
   text-decoration: none;
   background-color: #4a4a4a;
 }
@@ -1832,7 +1832,7 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: #4a4a4a;
   text-decoration: none;
-  background-color: #00356B;
+  background-color: #00356b;
   outline: 0;
 }
 
@@ -1922,7 +1922,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #00356B;
+    color: #00356b;
     background-color: transparent;
   }
 

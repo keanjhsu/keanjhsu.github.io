@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychometrics on Kean J. Hsu, Ph.D.</title>
+    <link>/tags/psychometrics/</link>
+    <description>Recent content in Psychometrics on Kean J. Hsu, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/psychometrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The measurement of psychopathology and associated processes</title>
+      <link>/contributions/psychometrics/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/psychometrics/</guid>
+      <description>Our ability to advance our understanding of psychopathology is inherently limited by the tools and frameworks we adopt. I have two lines of work based on this premise.
+1) Instruments assessing clinical constructs have often been developed and validated in non-clinical settings (e.g., with university subject pools). Limited work has been conducted examining the validity and reliability of these instruments in more transdiagnostic clinical samples despite their prevalence in clinical research spanning a variety of psychiatric disorders.</description>
+    </item>
+    
+  </channel>
+</rss>

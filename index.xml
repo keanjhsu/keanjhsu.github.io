@@ -11,6 +11,32 @@
     
     <item>
       <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 -0500</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
       <link>/talks/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 -0500</pubDate>
       
@@ -32,6 +58,142 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COmputerized Modification Program for Attention - REtraining the Mind Trial (COMPARE Mind Trial)</title>
+      <link>/project/r33/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/r33/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Further details coming soon. &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Project Abstract&lt;/b&gt; (from NIH RePORTER): The overall goal of this project is to continue development of an attention bias modification (ABM) intervention that targets and reduces negative attention bias among adults with elevated symptoms of depression. Our prior work indicates that attention bias for negative information is associated with the maintenance of depression and that neural circuitry within frontal-parietal brain networks supports biased attention for negative information, thus allowing us to develop specific and targeted interventions that directly alter the neurobiology of negative attention bias. The proposed R33 study builds upon our prior NIMH funded work (R21MH092430), which examined whether ABM reduces negative attention bias and improves symptoms of depression. Findings indicate that compared to placebo ABM, active ABM reduced negative attention bias and increased resting state connectivity within a neural circuit (i.e., middle frontal gyrus and dorsal anterior cingulate cortex) that supports control over emotional information. Further, change in negative attention bias from pre- to post-ABM was significantly correlated with depression symptom change but only in the active training condition. Importantly, a 40% decrease in symptoms was observed in the active training condition; however, similar symptom reduction was also observed in the “placebo ABM” condition. Exploratory analyses indicated that placebo training may have promoted depression improvement by enhancing sustained attention. Although these preliminary findings are encouraging and demonstrate that ABM successfully alters the treatment target (i.e., negative attention bias), our prior work is among the first to document efficacy of ABM among adults with clinically significant depression. We believe it is prudent and necessary to obtain additional efficacy evidence for ABM before moving forward with large-scale clinical trials of ABM for depression. Aim 1 is to conduct a randomized clinical trial among adults with elevated symptoms of depression and a negative attention bias that compares the efficacy of active ABM to placebo ABM and an assessment-only control condition that does not involve any ABM procedures. Aim 2 is to examine whether ABM alters negative attention bias and functional connectivity within frontal-parietal neural circuitry that support negative attention bias. Aim 3 is to identify mechanisms responsible for the putative efficacy of active and placebo ABM. Study Impact: The current project proposes to target and reduce negative attention bias with a novel intervention grounded in basic psychopathology research. We believe this experimental medicine approach will lead to the development of a highly specific and targeted intervention, using cutting- edge cognitive neuroscience to inform treatment development, and improve the quality of life of people whose psychopathology is maintained by negative attention bias.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Executive functioning</title>
+      <link>/contributions/executive-functioning/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/executive-functioning/</guid>
+      <description>&lt;p&gt;Attentional control and cognitive control (i.e., executive functioning) regulate what information from the environment enters conscious processing and how well that information can be processed and utilized or discarded. When these processes go awry, particularly in the context of negatively-valenced information or stimuli, they may lead to negative mood states and factors associated with depression risk and depression severity. We were the first group to show that while monozygotic (MZ) twins discordant for depression show no differences in neuropsychological functioning, they exhibit attentional impairment relative to MZ twins with no family history of depression. These results suggest the attentional impairments observed in depression are not associated with depression state or history as previously hypothesized and assumed, but rather familial risk for depression. We then examined how aberrant executive functioning may lead to depression via intermediate processes like attentional biases and rumination, providing the first empirical evidence connecting executive functioning to depression via these depressogenic phenotypes. We also examined the differential relationship of these executive processes with depression and anxiety. Unlike studies in non-clinical samples, our findings suggest that impaired attentional focusing, but not attentional shifting, appears to play a significant role in depression and anxiety maintenance.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Relevant work&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Forgeard, M.J.C., Stein, A., Beard, C., &amp;amp; Björgvinsson, T. (in press). Examining differential relationships among self-reported attentional control, depression, and anxiety in a transdiagnostic clinical sample. Journal of Affective Disorders.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, &amp;amp; Davison, G.C. (2017). Compounded deficits: the association between neuropsychological impairment and attention biases in currently depressed, formerly depressed, and never depressed individuals. Clinical Psychological Science, 5(2), 286-298.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Beard, C., Rifkin, L., Dillon, D.G., Pizzagalli, D.A., &amp;amp; Björgvinsson, T. (2015). Transdiagnostic mechanisms: the association between attentional control, rumination, and clinical symptomatology. Journal of Affective Disorders, 188: 22-27. Doi: 10.1016/j.jad.2015.08.008&lt;/li&gt;
+  &lt;li&gt;Beard, C., Donahue, R.D., Dillon, D.G., Van’t Veer, A., Webber, C., Björgvinsson, T., Lee, J., Barrick, E., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Foti, D., Carroll, F.I., Carlezon Jr., W.A., &amp;amp; Pizzagalli, D.A. (2015). Abnormal error processing in depressive states: a translational examination in humans and rats. Translational Psychiatry, 5(5), e564. doi:10.1038/tp.2015.54&lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Young-Wolff, K.C., Kendler, K.S., Halberstadt, L.J., &amp;amp; Prescott, C.A. (2014). Neuropsychological deficits in major depression reflect familial risk more than clinical history: a monozygotic discordant twin-pair study. Psychiatry Research, 215(1): 87-94.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Repetitive Negative Thinking</title>
+      <link>/contributions/rnt/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/rnt/</guid>
+      <description>&lt;p&gt;Repetitive negative thinking (e.g., rumination; RNT) is a transdiagnostic process of increasing interest in theoretical models of psychopathology and in empirical study. My research into RNT in complex psychiatric samples has been broadly based, including the study of measure psychometrics, potential mechanisms underlying RNT, and how RNT often mediates treatment outcomes. For example, although the Ruminative Responses Scale (RRS) has been suggested as a two-factor measure of rumination in student samples, factor analyses of the RRS in psychiatric samples have suggested other factor solutions. We therefore conducted a two-sample study of the RRS, including both psychiatric and unselected student samples, and found that a one-factor model best fit the data in the psychiatric sample, as well as the student sample. In addition, we found support for the hypothesis that impaired attentional control underlies rumination (i.e., the impaired disengagement hypothesis). Finally, in two separate studies we have found that changes in repetitive negative thinking mediate the relationship between changes in either self-compassion or dysfunctional attitudes with changes in depression and anxiety symptoms&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Relevant work&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wadsworth, L.P., Forgeard, M., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Treadway, M., Kertz, S., &amp;amp; Björgvinsson, T. (in press). Changes in self-compassion and repetitive negative thinking predict symptom improvement in a severe clinical population. Cognitive Therapy and Research.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Beard, C., Rifkin, L., Dillon, D.G., Pizzagalli, D.A., &amp;amp; Björgvinsson, T. (2015). Transdiagnostic mechanisms: the association between attentional control, rumination, and clinical symptomatology. Journal of Affective Disorders, 188: 22-27. Doi: 10.1016/j.jad.2015.08.008&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Kertz, S., Stevens, K., Petersen, D., Sigurjonsdottir, O., Beard, C., &amp;amp; Björgvinsson, T. (2019). Reflection reconsidered: A psychometric study of the Ruminative Responses Scale in a transdiagnostic psychiatric population and an unselected student population. Manuscript in submission.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Stein, A., Forgeard, M.J.C., Rifkin, L.S., Beard, C., &amp;amp; Björgvinsson, T. (2019). Examining the relationship between reductions in dysfunctional thinking on depression and anxiety symptom reduction in an intensive CBT setting: the role of rumination. Manuscript in preparation.&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain, Motivation and Personality Development Study (BrainMAPD)</title>
+      <link>/project/brainmapd/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/brainmapd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The measurement of psychopathology and associated processes</title>
+      <link>/contributions/psychometrics/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/psychometrics/</guid>
+      <description>&lt;p&gt;Our ability to advance our understanding of psychopathology is inherently limited by the tools and frameworks we adopt. I have two lines of work based on this premise.&lt;/p&gt;
+
+&lt;p&gt;1) Instruments assessing clinical constructs have often been developed and validated in non-clinical settings (e.g., with university subject pools). Limited work has been conducted examining the validity and reliability of these instruments in more transdiagnostic clinical samples despite their prevalence in clinical research spanning a variety of psychiatric disorders. We have provided some of the very first psychometric research on instruments assessing constructs of significant clinical interest with a large, complex, and heterogenous psychiatric population.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Relevant work&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Beard, C., &lt;b&gt;Hsu, K. J.&lt;/b&gt;, Rifkin, L. S., Busch, A., &amp;amp; Björgvinsson, T. (2016). Validation of the PHQ-9 in a psychiatric sample. Journal of Affective Disorders, 193, 267-273. Doi: 10.1016/j.jad.2015.12.075 &lt;/li&gt;
+&lt;li&gt;Rifkin, L., Beard, C., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Garner, L., &amp;amp; Björgvinsson, T. (2016). Psychometric properties of the Anxiety Sensitivity Index-3 in an acute and heterogeneous treatment sample. Journal of Anxiety Disorders, 36: 99-102. Doi: 10.1016/j.janxdis.2015.09.010
+&lt;li&gt;Stein, A.T., Hearon, B., Beard, C., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, &amp;amp; Björgvinsson, T. (2016). Properties of the Dialectical Behavior Therapy Ways of Coping Checklist in a Diagnostically Diverse Partial Hospital Sample. Journal of Clinical Psychology, 72(1), 49-57.  &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Hsu, K.&lt;/b&gt;, Iwamoto, D.K. (2014). Testing for measurement invariance in the Conformity to Masculine Norms-46 across Whites and Asian American college men: development and validity of the CMNI-29. Psychology of Men &amp;amp; Masculinity, 15 (4), 397-406. Doi: 10.1037/a0034548  &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Kertz, S., Stevens, K., Petersen, D., Sigurjonsdottir, O., Beard, C., &amp;amp; Björgvinsson, T. (2019). Reflection reconsidered: A psychometric study of the Ruminative Responses Scale in a transdiagnostic psychiatric population and an unselected student population. Manuscript in submission. &lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Forgeard, M., Beard, C., &amp;amp; Björgvinsson, T. (2019). Self-reported attentional control and psychopathology: Psychometric properties and characteristics of the Attentional Control Scale (ACS) in a transdiagnostic clinical sample. Manuscript in submission. &lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;2) Traditional approaches to psychopathology (e.g., the Diagnostic and Statistical Manual) often fail at adequately characterizing clinical disorder, as suggested by high comorbidity rates and significant heterogeneity within diagnostic categories. Therefore, alternative approaches to understanding psychopathology are needed to better carve nature at its joints. We have employed two data-intensive approaches to characterize psychopathology in a sample with significant heterogeneity and comorbidity.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Relevant work&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Beard, C., Milner, A., Forgeard, M., Fried, E.I., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Treadway, M., Leonard, C.V., Kertz, S., &amp;amp; Björgvinsson, T. (2016). A network analysis approach to depression and anxiety comorbidity in adults with severe mental illness. Psychological Medicine, 46 (16), 3359-3369.
+&lt;li&gt;&lt;b&gt;Hsu, K.J.+&lt;/b&gt;, Mullarkey, M.+, Dobias, M., Beard, C., &amp;amp; Björgvinsson, T. (2019). Expanding the network: Examining the influence of repetitive negative thinking and experiential avoidance on depression and anxiety symptom network predictability. Manuscript in preparation.
+&lt;li&gt;Weissman, I., Rutter, L., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Nordberg, S., Wadsworth, L.P., Beard, C., &amp;amp; Björgvinsson, T. (2019). Data-driven approaches to psychopathology: combining factor and latent profile analytics to characterize complex psychiatric patients. Manuscript in preparation.
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;+Indicates the authors contributed equally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Treatment Research</title>
+      <link>/contributions/treatment-research/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/contributions/treatment-research/</guid>
+      <description>&lt;p&gt;While clinical science has yielded a number of psychotherapeutic interventions that benefit individuals with a broad range of psychopathology, not everyone benefits from these treatments and it is still unclear how these treatments work. Consequently, there is a significant need for research into the predictors and mediators of treatment response, particularly beyond traditional randomized clinical trial settings. We have examined factors involved in treatment response for a complex psychiatric sample presenting for treatment in a partial hospital setting, finding support for the relevance of therapeutic skill change, rumination, and treatment expectancy in prediction of therapeutic response. We also have examined the neural mechanisms underlying psychotherapy, specifically conducting the first examination of common and distinct neural mediators underlying treatment for Social Anxiety Disorder with Cognitive Behavioral Therapy and Acceptance and Commitment Therapy.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Relevant work&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Peckham, A.D., Forgeard, M.J.C., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Beard, C., &amp;amp; Björgvinsson, T. (in press). Turning the UPPS down: Impulsivity and treatment outcome in a partial hospitalization program. Comprehensive Psychiatry.&lt;/li&gt;
+&lt;li&gt;Young, K.S., LeBeau, R.T., Niles, A.N., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Burklund, L.J., Mesri, B., Saxbe, D., Lieberman, M.D., &amp;amp; Craske, M.G. (in press). Neural connectivity during affect labeling predicts treatment response to psychological therapies for social anxiety disorder. Journal of Affective Disorders. &lt;/li&gt;
+&lt;li&gt;Wadsworth, L.P., Forgeard, M., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, Treadway, M., Kertz, S., &amp;amp; Björgvinsson, T. (2018). Examining the role of repetitive negative thinking in relations between positive and negative aspects of self-compassion and symptom improvement during intensive treatment. Cognitive Therapy and Research, 42 (3), 236-249.&lt;/li&gt;
+&lt;li&gt;Webb, C.A., Beard, C., Kertz, S.J., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, &amp;amp; Björgvinsson, T. (2016). Differential role of CBT, DBT, and psychological flexibility in predicting depressive versus anxiety symptom improvement. Behaviour Research and Therapy, 81, 12-20.
+&lt;li&gt;Beard, C., Stein, A., Hearon, B., Lee, J., &lt;b&gt;Hsu, K.J.&lt;/b&gt;, &amp;amp; Björgvinsson, T. (2016). Predictors of depression treatment response in an intensive CBT partial hospital. Journal of Clinical Psychology, 72 (4), 297-310.
+&lt;li&gt;&lt;b&gt;Hsu, K.J.&lt;/b&gt;, Forgeard, M.J.C., Rifkin, L.S., Beard, C., &amp;amp; Bjorgvinsson, T. (2016, October). Examining the relationship between reductions in dysfunctional thinking on depression and anxiety symptom reduction in an intensive CBT setting: the role of rumination. In S. Kertz (Chair), Examining the mediating role of repetitive negative thinking across psychological outcomes. Symposium conducted at the 50th annual meeting of the Association of Behavioral and Cognitive Therapy, New York, NY.
+&lt;li&gt;&lt;b&gt;Hsu, K.J.+&lt;/b&gt;, Young, K.S.+, Burklind, L.J., Sun, M., Torre, J., Saxbe, D., Lieberman, M.D., &amp;amp; Craske, M.G. (2019). Common and distinct neural mediators underlying response to Cognitive Behavioral Therapy and Acceptance and Commitment Therapy for Social Anxiety Disorder. Manuscript in submission.
+&lt;/ul&gt;&lt;/p&gt;
+
+&lt;p&gt;+Indicates the authors contributed equally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributions of genome-wide variability to cognitive vulnerability to depression</title>
+      <link>/project/r56/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/r56/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Further details coming soon. &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Project Abstract&lt;/b&gt; (from NIH RePORTER): Depression is a leading cause of disability worldwide among adults. Cognitive models of depression, which have received strong empirical support, posit that individuals&amp;rsquo; characteristic ways of attending to, interpreting, and remembering stimuli in their environment may contribute to the development and maintenance of the disorder. To understand the etiology of these biases, many genetic association studies have been completed. However, findings so far (including those from our own work) have been somewhat limited. Although genetic association studies have value, we strongly believe that whole genome methods will provide new insights into the role of genetic variation in psychopathology. Aim 1 is to comprehensively measure phenotypes related to negative cognitive bias in a community sample of 1500 adults of European ancestry. We propose to use established behavioral, eye tracking, and electrophysiological tasks to comprehensively measure negatively biased attention, interpretation, and memory—central features of contemporary cognitive models of depression. Aim 2 is to quantify the aggregate contribution of genetic variation across the genome to cognitive vulnerability. We propose to use genomic-relatedness-matrix restricted maximum likelihood to estimate the aggregate genetic effect of approximately 900,000 polymorphisms that measure exomic and common genetic variation across the entire genome. This will provide an answer to the fundamental question of how much variance in these key phenotypes is due to variation in measured polymorphisms. Aim 3 is to develop biologically plausible cumulative genetic scores (CGS) to identify linkages between specific genetic variation and our phenotypes. We have created gene sets derived from a database of known and predicted protein interactions and from human brain atlases with genetic and anatomic information. Importantly, our large sample allows us to perform a confirmatory study for these gene sets. Upon study conclusion, we will make our data publically available so investigators can develop additional gene sets that putatively relate to cognitive vulnerability. In sum, the proposed study will provide much needed insight into the degree to which these theoretically motivated intermediate phenotypes for depression are associated with genetic variation. Although twin studies point to the possibility of a genetic etiology, no attempts have been made to quantify the contribution of measured genetic variation to these cognitive phenotypes. This will provide much needed guidance about how much variance in cognitive vulnerability to depression can be predicted with genome- wide based analyses and may help account for some of the missing heritability often associated with candidate polymorphism studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transdiagnostic cognitive inflexibility</title>
+      <link>/project/cog-inflex/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/cog-inflex/</guid>
+      <description>&lt;p&gt;&lt;i&gt;Further details coming soon.&lt;/i&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -143,470 +305,6 @@ rm Untitled.md
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Attentional Bias Modification Treatment for Depression: Study Protocol for a Randomized Controlled Trial</title>
-      <link>/publication/2018-01-01_attentional_bias_mod/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2018-01-01_attentional_bias_mod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Examining the Role of Repetitive Negative Thinking in Relations Between Positive and Negative Aspects of Self-Compassion and Symptom Improvement During Intensive Treatment</title>
-      <link>/publication/2018-01-01_examining_the_role/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2018-01-01_examining_the_role/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Connectivity during Affect Labeling Predicts Treatment Response to Psychological Therapies for Social Anxiety Disorder</title>
-      <link>/publication/2018-01-01_neural_connectivity_/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2018-01-01_neural_connectivity_/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thanks, Mom and Dad! An Experimental Study of Gratitude Letter Writing for Asian and White American Emerging Adults</title>
-      <link>/publication/2018-01-01_thanks_mom_and_dad/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2018-01-01_thanks_mom_and_dad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compounded Deficits: The Association Between Neuropsychological Impairment and Attention Biases in Currently Depressed, Formerly Depressed, and Never Depressed Individuals</title>
-      <link>/publication/2017-01-01_compounded_deficit/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2017-01-01_compounded_deficit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brain, Motivation and Personality Development Study (BrainMAPD)</title>
-      <link>/project/brainmapd/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/project/brainmapd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COmputerized Modification Program for Attention - REtraining the Mind Trial (COMPARE Mind Trial)</title>
-      <link>/project/r33/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/project/r33/</guid>
-      <description>&lt;p&gt;&lt;i&gt; Coming soon &lt;/i&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transdiagnostic Cognitive Inflexibility</title>
-      <link>/project/bhp/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/project/bhp/</guid>
-      <description>&lt;p&gt;&lt;i&gt; Details coming soon. &lt;/i&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
-
-&lt;p&gt;Follow our easy &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the personal demo&lt;/a&gt; or the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
     </item>
     
