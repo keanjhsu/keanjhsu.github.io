@@ -15,13 +15,13 @@
   
     <url>
     
-      <loc>/project/r33/</loc>
+      <loc>/contributions/basic-cognitive-processes/</loc>
       <lastmod>2019-04-17T00:00:00-05:00</lastmod>
     </url>
   
     <url>
     
-      <loc>/contributions/executive-functioning/</loc>
+      <loc>/project/r33/</loc>
       <lastmod>2019-04-17T00:00:00-05:00</lastmod>
     </url>
   
@@ -159,12 +159,6 @@
   
     <url>
     
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -219,20 +213,7 @@
   
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
     </url>
   
     <url>
@@ -315,6 +296,13 @@
     
       <loc>/tags/bhp/</loc>
       <lastmod>2019-04-12T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/tags/basic-cognitive-processes/</loc>
+      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -478,13 +466,6 @@
   
     <url>
     
-      <loc>/tags/executive-functioning/</loc>
-      <lastmod>2019-04-17T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/tags/external/</loc>
       <lastmod>2019-04-16T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -501,13 +482,6 @@
     
       <loc>/authors/g.-c.-davison/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -716,13 +690,6 @@
   
     <url>
     
-      <loc>/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
       <loc>/authors/marie-forgeard/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -800,7 +767,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
   
